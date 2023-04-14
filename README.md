@@ -6,7 +6,7 @@ I am Prakash, a **DevOps Engineer** @[Salesforce](salesforce.com).
 Python has been my go-to programming language, although I am learning Golang and loving it so far! In previous jobs, I have worked with C/C++, Hack, and various scripting languages.
 
 Before joining Salesforce, I have been a Software Developer, Test Automation Engineer, and Lecturer.
-Alongside coding, I have been moonlighting as a Poker Player. I am also decent table tennis player and an amateur photographer.
+Alongside coding, I have been moonlighting as a Poker Player. I am also a decent table tennis player and an amateur photographer.
 
 Cheers! 🍻
 
